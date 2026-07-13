@@ -17,7 +17,7 @@ A production-ready task management application built with React 19, Vite 8, and 
 
 | Desktop View | Tablet View | Mobile View |
 |:---:|:---:|:---:|
-| ![Desktop](screenshots/desktop.png) | ![Tablet](screenshots/tablet.png) | ![Mobile](screenshots/mobile.png) |
+| ![Desktop](public/screenshots/desktop.png) | ![Tablet](public/screenshots/tablet.png) | ![Mobile](public/screenshots/mobile.png) |
 
 ---
 
