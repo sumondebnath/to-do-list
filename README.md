@@ -8,7 +8,7 @@ A production-ready task management application built with React 19, Vite 8, and 
 
 | Platform | Link |
 |----------|------|
-| 🌐 Live Website | [https://todo.nexsoft.dev](https://todo.nexsoft.dev) |
+| 🌐 Live Website | [https://todos-nexsoft.netlify.app/](https://todos-nexsoft.netlify.app/) |
 | 📁 GitHub Repository | [https://github.com/your-username/to-do-list](https://github.com/sumondebnath/to-do-list) |
 
 ---
@@ -443,8 +443,8 @@ SOFTWARE.
 
 | Platform | Link |
 |----------|------|
-| 🐙 GitHub | [github.com/your-username](https://github.com/your-username) |
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 🐙 GitHub | [github.com/sumondebnath](https://github.com/sumondebnath) |
+| 💼 LinkedIn | [linkedin.com/in/sumon-debnath/](https://www.linkedin.com/in/sumon-debnath/) |
 | 🌐 Portfolio | [your-portfolio.dev](https://your-portfolio.dev) |
 
 ---
